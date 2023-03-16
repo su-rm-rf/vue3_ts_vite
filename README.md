@@ -14,4 +14,3 @@ husky
 lint-staged
 pre-commit
 
-多钻研计算机底层，少陷入页面的琐碎细节
